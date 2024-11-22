@@ -1,3 +1,3 @@
 # Spotify-clone
-# click to visit website 
+#  visit website 
  https://virump.github.io/Spotify-clone/
